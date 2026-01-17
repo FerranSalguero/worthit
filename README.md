@@ -246,9 +246,21 @@ The app includes several protection measures:
 
 ## License
 
-© 2026 worthit.geeknite.com - All Rights Reserved
+[![CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
 
-This is proprietary software. Unauthorized copying, modification, or distribution is prohibited.
+This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
+
+© 2026 worthit.geeknite.com
+
+**You are free to:**
+
+- Share — copy and redistribute the material
+- Adapt — remix, transform, and build upon the material
+
+**Under the following terms:**
+
+- **Attribution** — You must give appropriate credit
+- **NonCommercial** — You may not use the material for commercial purposes
 
 ---
 
